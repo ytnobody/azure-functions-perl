@@ -1,0 +1,12 @@
+# ytnobody/azure-functions/perl
+
+A Container that based `mcr.microsoft.com/azure-functions/base`
+
+## Additional packages/program
+
+* curl
+* perl
+* gcc
+* make
+* cpanm
+
